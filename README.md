@@ -1,3 +1,3 @@
-# plugin-laravel-websockets
+# Bellows Laravel WebSockets Plugin
 
-[https://bellows.dev](https://bellows.dev)
+[https://bellows.dev/docs/plugins/laravel-websockets](https://bellows.dev/docs/plugins/laravel-websockets)
